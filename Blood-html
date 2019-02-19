@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>blood donate form
+</title>
+</head>
+<body style=" background-image:url('abc.jpg');background-size:cover; position:absolute">
+<form>
+  <table>
+    <tr>
+      <td>
+<B>NAME:</B></td>
+<td><input type="text"  value=""><br></td></tr>
+<tr>
+    <td>
+<B>AGE:</B></td>
+
+<td><input type="number"  value=""><br></td></tr>
+<tr><td><B>WEIGTH:</B><br/></th>
+<td><input type="number"  value=""><br></td></tr>
+<tr>
+    <td>
+<B>DOB:</B></td>
+<td><input type="calender" value=""></td></tr>
+<tr><td><B>GENDER:</B></th>
+ <td> <input type="radio" name="option1" value="option1" checked="checked">Male</td><br>
+ <td> <input type="radio" name="option1" value="option1">Female</td><br>
+ <td> <input type="radio" name="option1" value="option1">Other</td></tr>
+ <tr>
+<tr>
+      <td>
+<B>ADDRESS:</B></td>
+<td><input type="comment"  value="" ><br></td></tr>
+<tr><td>
+<B>PHONE NUMBER:</B></td>
+<td><input type="comment"  value="" ><br></td></tr>
+<tr>
+<tr><td><B>BLOOD GROUP:</B><br/></th>
+<td>
+ <td> <input type="radio" name="g" value="male" checked>O+</td>
+ <td> <input type="radio" name="g" value="female">O-</td>
+ <td> <input type="radio" name="g" value="other"> A+</td>
+ <td> <input type="radio" name="g" value="male"> A-</td>
+ <td> <input type="radio" name="g" value="female"> B+</td>
+ <td> <input type="radio" name="g" value="other"> B-</td></tr>
+<tr>
+
+</table>
+<br>
+<br>
+<br>
+<button>Submit</button>
+</form>
+</body>
+</html>
